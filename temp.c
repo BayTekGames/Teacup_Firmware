@@ -26,7 +26,7 @@
 
 #ifdef	TEMP_THERMISTOR
 #include	"analog.h"
-#include	"ThermistorTable.h"
+#include	"extruder/ThermistorTable.h"
 #endif
 
 #ifdef	TEMP_AD595
